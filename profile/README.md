@@ -12,9 +12,9 @@ This allows precise measurement and control of espresso extraction, improving co
 
 - MCU: Nordic nRF52840
 - TFT touch: Adafruit 2.8" Capacitive
-- SparkFun 500g load cells
-- HX711 cell amp
-- Relay?
+- SparkFun 500g loadcell
+- NAU7802SGI 24 bit ADC
+- TCK108AF load switch IC
 
 ## Software and tools
 
